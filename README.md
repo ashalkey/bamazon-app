@@ -1,3 +1,6 @@
 # bamazon-app
 
-![Bam! Bamazon](https://github.com/ashalkey/bamazon-app/blob/master/images/test.gif)
+Use this node application to send queries to a MySQL database!
+
+Take a look at this quick sample to see how it works!
+![Bam! Bamazon]()
